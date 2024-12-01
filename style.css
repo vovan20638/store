@@ -1,0 +1,18 @@
+body {
+    margin: 0px;
+    zoom: 100%;
+}
+
+.card {
+    margin: 25px;
+
+}
+
+.cards {
+    display: flex;
+}
+
+.card-body {
+    display: grid;
+    align-content: end;
+}
